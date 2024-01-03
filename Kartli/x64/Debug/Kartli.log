@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\yeshat\source\repos\Raytracer\Kartli\main.cpp(73,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\yeshat\source\repos\Raytracer\Kartli\main.cpp(97,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\yeshat\source\repos\Raytracer\Kartli\main.cpp(97,19): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\yeshat\source\repos\Raytracer\Kartli\main.cpp(97,15): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Kartli.vcxproj -> C:\Users\yeshat\source\repos\Raytracer\x64\Debug\Kartli.exe
